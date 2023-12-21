@@ -1,0 +1,26 @@
+{
+  "name": "librarymanagementsystem",
+  "version": "1.0.0",
+  "description": "# Book Record Management System >>server   >Storing Book Data   >User Registration   >Subscription",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "dev":"nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laxmiprasanna3/LibrarymanagementSystem.git"
+  },
+  "author": "laxmi prasanna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laxmiprasanna3/LibrarymanagementSystem/issues"
+  },
+  "homepage": "https://github.com/laxmiprasanna3/LibrarymanagementSystem#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
